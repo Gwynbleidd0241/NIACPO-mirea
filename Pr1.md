@@ -55,3 +55,10 @@ ZUNION - Возвращение объединения нескольких уп
 ZMSCORE - Возвращение веса указанных элементов<br>
 ZLEXCOUNT - Возвращение количества элементов по диапозону<br>
 
+<img width="442" alt="10 docker(1)" src="https://github.com/user-attachments/assets/78090029-afec-40cd-b1d3-e4a5fc1c230c"> <br>
+<img width="465" alt="Снимок экрана 2024-09-10 в 16 39 28" src="https://github.com/user-attachments/assets/01548c3f-9e2b-4f75-bbcf-5381457a9f0c"><br>
+
+# Задание 11
+Из документации выбрать любые не использовавшиеся ранее 5 команд и задействовать их в работе.
+
+
